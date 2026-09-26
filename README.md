@@ -1,6 +1,7 @@
 # Sales Performance Dashboard | Power BI
 
-![Sales Performance Dashboard]("C:\Users\DELL\Documents\Master PowerBI_29082026\Sales Performance Dashboard.png")
+<img width="1353" height="766" alt="image" src="https://github.com/user-attachments/assets/b3e85a79-b323-4555-83a0-d9fc8ae31529" />
+
 
 ## Project overview
 
